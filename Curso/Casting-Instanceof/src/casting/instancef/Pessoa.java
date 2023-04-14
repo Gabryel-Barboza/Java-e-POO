@@ -1,4 +1,4 @@
-package casting.instaceof;
+package casting.instancef;
 
 public class Pessoa {
     private String nome;
