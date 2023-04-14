@@ -13,7 +13,7 @@ public class CastingInstanceof {
         Object obj1 = "Minha String";
         String s1 = (String) obj1;  //O typecast é obrigatório para Downcasts
         
-        //Instaceof
+        //Instanceof
         Pessoa p1 = new Pessoa("Gabryel", 19, 'M');
         //Verificar qual tipo da variavel
         
