@@ -9,6 +9,7 @@
  <a href="https://github.com/Gabryel-Barboza/Java-e-POO/tree/main/Curso/OperadoresLogicos/">Operadores Lógicos</a>
  <a href="https://github.com/Gabryel-Barboza/Java-e-POO/tree/main/Curso/OperadorTernario/">Operador Ternário</a>
  <a href="https://github.com/Gabryel-Barboza/Java-e-POO/tree/main/Curso/TiposPrimitivos/">Tipos Primitivos</a>
+ <a href="https://github.com/Gabryel-Barboza/Java-e-POO/tree/main/Curso/organizacao-pacotes-java/">Organização Pacotes Java</a>
  <a href="https://github.com/Gabryel-Barboza/Java-e-POO/tree/main/Curso/ComparacaoString/">Comparação Strings</a>
  <a href="https://github.com/Gabryel-Barboza/Java-e-POO/tree/main/Curso/Swing_OláMundo/">Swing, Olá Mundo!</a>
  <a href="https://github.com/Gabryel-Barboza/Java-e-POO/tree/main/Curso/OlaMundoJavaFX/">Olá Mundo! JavaFX</a>
@@ -65,20 +66,32 @@
  <a href="https://github.com/Gabryel-Barboza/Java-e-POO/tree/main/Curso/Funcao01/">Função 01</a>
  <a href="https://github.com/Gabryel-Barboza/Java-e-POO/tree/main/Curso/ExercicioFuncao/">Exercício Função</a>
  </pre>
-
+## Tratamento de Erros &#x1F7E1;
+ <pre>
+ <a href="https://github.com/Gabryel-Barboza/Java-e-POO/tree/main/Curso/TryCatch/">Try, Catch e Finally</a>
+ <a href="https://github.com/Gabryel-Barboza/Java-e-POO/tree/main/Curso/MultiplosCatchs/">Múltiplos Catchs</a>
+ <a href="https://github.com/Gabryel-Barboza/Java-e-POO/tree/main/Curso/StackTrace/">StackTrace</a>
+ <a href="https://github.com/Gabryel-Barboza/Java-e-POO/tree/main/Curso/Throws/">Throws</a>
+ <a href="https://github.com/Gabryel-Barboza/Java-e-POO/tree/main/Curso/MinhaException/">Minha Própria Exception</a>
+ </pre>
 ## Programação Orientada ao Objeto - POO &#x1F7E0;
  <pre>
  <a href="https://github.com/Gabryel-Barboza/Java-e-POO/tree/main/Curso/PooAula02/">Primeiros Passos</a>
  <a href="https://github.com/Gabryel-Barboza/Java-e-POO/tree/main/Curso/PooAula03/">Encapsulamento</a>
  <a href="https://github.com/Gabryel-Barboza/Java-e-POO/tree/main/Curso/PooAula04/">Métodos Especiais</a>
  <a href="https://github.com/Gabryel-Barboza/Java-e-POO/tree/main/Curso/PooAula05/">Conta no Banco</a>
+ <a href="https://github.com/Gabryel-Barboza/Java-e-POO/tree/main/Curso/ModificadorStatic/">Modificador Static</a>
+ <a href="https://github.com/Gabryel-Barboza/Java-e-POO/tree/main/Curso/Interfaces/">Interfaces</a>
  <a href="https://github.com/Gabryel-Barboza/Java-e-POO/tree/main/Curso/PooAula06/">Controle Remoto</a>
  <a href="https://github.com/Gabryel-Barboza/Java-e-POO/tree/main/Curso/PooAula07/">Ultra Emoji Combat</a>
  <a href="https://github.com/Gabryel-Barboza/Java-e-POO/tree/main/Curso/PooAula09/">Leia Um Livro</a>
+ <a href="https://github.com/Gabryel-Barboza/Java-e-POO/tree/main/Curso/ClasseObject/">Classe Object</a>
+ <a href="https://github.com/Gabryel-Barboza/Java-e-POO/tree/main/Curso/Casting-Instanceof/">Casting e InstanceOf</a>
  <a href="https://github.com/Gabryel-Barboza/Java-e-POO/tree/main/Curso/PooAula10/">Herança</a>
  <a href="https://github.com/Gabryel-Barboza/Java-e-POO/tree/main/Curso/PooAula11/">Árvore De Herança</a>
  <a href="https://github.com/Gabryel-Barboza/Java-e-POO/tree/main/Curso/PooAula12/">Polimorfismo De Sobrescrita</a>
  <a href="https://github.com/Gabryel-Barboza/Java-e-POO/tree/main/Curso/PooAula13/">Polimorfismo de Sobrecarga</a>
  <a href="https://github.com/Gabryel-Barboza/Java-e-POO/tree/main/Curso/PooAula14/">Assistindo a Um Video</a>
+ <a href="https://github.com/Gabryel-Barboza/Java-e-POO/tree/main/Curso/FiguraGeometrica/">Figura Geométrica</a>
  </pre> 
  
