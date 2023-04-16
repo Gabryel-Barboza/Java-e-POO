@@ -66,7 +66,7 @@
  <a href="https://github.com/Gabryel-Barboza/Java-e-POO/tree/main/Curso/ExercicioFuncao/">Exercício Função</a>
  </pre>
 
-## Programação Orientada ao Objeto - POO
+## Programação Orientada ao Objeto - POO &#x1F7E0;
  <pre>
  <a href="https://github.com/Gabryel-Barboza/Java-e-POO/tree/main/Curso/PooAula02/">Primeiros Passos</a>
  <a href="https://github.com/Gabryel-Barboza/Java-e-POO/tree/main/Curso/PooAula03/">Encapsulamento</a>
