@@ -63,6 +63,8 @@
  </pre>
 ## Funções &#x1F7E1;
  <pre>
+ <a href="https://github.com/Gabryel-Barboza/Java-e-POO/tree/main/Curso/TesteFuncao/">Teste Função</a>
+ <a href="https://github.com/Gabryel-Barboza/Java-e-POO/tree/main/Curso/TesteFuncao02/">Teste Função 02</a>
  <a href="https://github.com/Gabryel-Barboza/Java-e-POO/tree/main/Curso/Funcao01/">Função 01</a>
  <a href="https://github.com/Gabryel-Barboza/Java-e-POO/tree/main/Curso/ExercicioFuncao/">Exercício Função</a>
  </pre>
