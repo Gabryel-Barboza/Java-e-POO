@@ -34,6 +34,7 @@ public class Lutador implements Apresentador {
     @Override
     public void status() {
         System.out.println("Lutador : " + getNome());
+        //Palavra no Plural ou Não
         System.out.print(getVitorias() + (getVitorias() == 1? " Vitória  |  ":" Vitórias  |  "));
         System.out.print(getDerrotas() + (getDerrotas() == 1? " Derrota  |  ":" Derrotas  |  "));
         System.out.print(getEmpates() + (getEmpates() == 1? " Empate  |  ":" Empates  |  "));
