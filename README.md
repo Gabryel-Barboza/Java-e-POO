@@ -15,6 +15,7 @@
  <a href="https://github.com/Gabryel-Barboza/Java-e-POO/tree/main/Curso/SomaSwing/">Soma [Swing]</a>
  <a href="https://github.com/Gabryel-Barboza/Java-e-POO/tree/main/Curso/OperadoresSwing/">Operadores [Swing]</a>
  <a href="https://github.com/Gabryel-Barboza/Java-e-POO/tree/main/Curso/VerificadorIdadeSwing/">Verificador Idade [Swing]</a>
+ <a href="https://github.com/Gabryel-Barboza/Java-e-POO/tree/main/Curso/SuperCalculadora/">Super Calculadora</a>
  </pre>
 ## Estrutura de Controle/Condicional
 <pre>
@@ -22,8 +23,10 @@
  <a href="https://github.com/Gabryel-Barboza/Java-e-POO/tree/main/Curso/ProgramaMedia/">Programa Média</a>
  <a href="https://github.com/Gabryel-Barboza/Java-e-POO/tree/main/Curso/ProgramaParImparSwing/">Programa Par Ou Ímpar [Swing]</a>
  <a href="https://github.com/Gabryel-Barboza/Java-e-POO/tree/main/Curso/VotacaoSwing/">Votação [Swing]</a>
+ <a href="https://github.com/Gabryel-Barboza/Java-e-POO/tree/main/Curso/ProjetoTriangulo/">Projeto Triângulo</a>
  </pre>
 ## Criando Interações Com o Sistema
+ <pre>
  <a href="https://github.com/Gabryel-Barboza/Java-e-POO/tree/main/Curso/HoraDoSistema/">Hora Do Sistema</a>
  <a href="https://github.com/Gabryel-Barboza/Java-e-POO/tree/main/Curso/RelogioSwing/">Relogio [Swing]</a>
  <a href="https://github.com/Gabryel-Barboza/Java-e-POO/tree/main/Curso/LinguagemDoSistema/">Linguagem Do Sistema</a>
@@ -31,8 +34,6 @@
  <a href="https://github.com/Gabryel-Barboza/Java-e-POO/tree/main/Curso/ResoluçãoDoSistema/">Resolução Do Sistema</a>
  <a href="https://github.com/Gabryel-Barboza/Java-e-POO/tree/main/Curso/ResoluçãoSwing/">Resolução Do Sistema [Swing]</a>
  <a href="https://github.com/Gabryel-Barboza/Java-e-POO/tree/main/Curso/calculadoraidade/">Calculadora Idade</a>
- <a href="https://github.com/Gabryel-Barboza/Java-e-POO/tree/main/Curso/SuperCalculadora/">Super Calculadora</a>
- <a href="https://github.com/Gabryel-Barboza/Java-e-POO/tree/main/Curso/ProjetoTriangulo/">Projeto Triângulo</a>
  <a href="https://github.com/Gabryel-Barboza/Java-e-POO/tree/main/Curso/LeitorDePensamento/">Leitor de Pensamento</a>
  <a href="https://github.com/Gabryel-Barboza/Java-e-POO/tree/main/Curso/EquacaoSegundoGrau/">Equação Segundo Grau</a>
  <a href="https://github.com/Gabryel-Barboza/Java-e-POO/tree/main/Curso/Repeticao01/">Repetição 01</a>
