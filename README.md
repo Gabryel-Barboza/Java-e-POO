@@ -23,6 +23,9 @@
  <a href="https://github.com/Gabryel-Barboza/Java-e-POO/tree/main/Curso/ProgramaMedia/">Programa Média</a>
  <a href="https://github.com/Gabryel-Barboza/Java-e-POO/tree/main/Curso/ProgramaParImparSwing/">Programa Par Ou Ímpar [Swing]</a>
  <a href="https://github.com/Gabryel-Barboza/Java-e-POO/tree/main/Curso/VotacaoSwing/">Votação [Swing]</a>
+ <a href="https://github.com/Gabryel-Barboza/Java-e-POO/tree/main/Curso/ProgramaPernas/">Programa Pernas</a>
+ <a href="https://github.com/Gabryel-Barboza/Java-e-POO/tree/main/Curso/EquacaoSegundoGrau/">Equação Segundo Grau</a>
+ <a href="https://github.com/Gabryel-Barboza/Java-e-POO/tree/main/Curso/LeitorDePensamento/">Leitor de Pensamento</a>
  <a href="https://github.com/Gabryel-Barboza/Java-e-POO/tree/main/Curso/ProjetoTriangulo/">Projeto Triângulo</a>
  </pre>
 ## Criando Interações Com o Sistema
@@ -34,8 +37,9 @@
  <a href="https://github.com/Gabryel-Barboza/Java-e-POO/tree/main/Curso/ResoluçãoDoSistema/">Resolução Do Sistema</a>
  <a href="https://github.com/Gabryel-Barboza/Java-e-POO/tree/main/Curso/ResoluçãoSwing/">Resolução Do Sistema [Swing]</a>
  <a href="https://github.com/Gabryel-Barboza/Java-e-POO/tree/main/Curso/calculadoraidade/">Calculadora Idade</a>
- <a href="https://github.com/Gabryel-Barboza/Java-e-POO/tree/main/Curso/LeitorDePensamento/">Leitor de Pensamento</a>
- <a href="https://github.com/Gabryel-Barboza/Java-e-POO/tree/main/Curso/EquacaoSegundoGrau/">Equação Segundo Grau</a>
+ </pre>
+## Estrutura de Repetição
+ <pre>
  <a href="https://github.com/Gabryel-Barboza/Java-e-POO/tree/main/Curso/Repeticao01/">Repetição 01</a>
  <a href="https://github.com/Gabryel-Barboza/Java-e-POO/tree/main/Curso/ExercicioRepita/">Exercício Repita</a>
  <a href="https://github.com/Gabryel-Barboza/Java-e-POO/tree/main/Curso/Contador01/">Contador 01</a>
@@ -44,7 +48,9 @@
  <a href="https://github.com/Gabryel-Barboza/Java-e-POO/tree/main/Curso/Exercicio13/">Exercício 13 - Contagem</a>
  <a href="https://github.com/Gabryel-Barboza/Java-e-POO/tree/main/Curso/RepeticaoFor/">Repetição For</a>
  <a href="https://github.com/Gabryel-Barboza/Java-e-POO/tree/main/Curso/ProgramaFatorial/">Programa Fatorial</a>
- <a href="https://github.com/Gabryel-Barboza/Java-e-POO/tree/main/Curso/ProgramaPernas/">Programa Pernas</a>
+ </pre>
+## Variáveis Compostas
+ <pre>
  <a href="https://github.com/Gabryel-Barboza/Java-e-POO/tree/main/Curso/Vetor01/">Vetor 01</a>
  <a href="https://github.com/Gabryel-Barboza/Java-e-POO/tree/main/Curso/Vetor02/">Vetor 02</a>
  <a href="https://github.com/Gabryel-Barboza/Java-e-POO/tree/main/Curso/Vetor03/">Vetor 03</a>
@@ -53,6 +59,9 @@
  <a href="https://github.com/Gabryel-Barboza/Java-e-POO/tree/main/Curso/ExercicioVetor/">Exercício Vetor</a>
  <a href="https://github.com/Gabryel-Barboza/Java-e-POO/tree/main/Curso/Matrizes01/">Matrizes 01</a>
  <a href="https://github.com/Gabryel-Barboza/Java-e-POO/tree/main/Curso/Matrizes02/">Matrizes 02</a>
+ </pre>
+## Funções
+ <pre>
  <a href="https://github.com/Gabryel-Barboza/Java-e-POO/tree/main/Curso/Funcao01/">Função 01</a>
  <a href="https://github.com/Gabryel-Barboza/Java-e-POO/tree/main/Curso/ExercicioFuncao/">Exercício Função</a>
  </pre>
