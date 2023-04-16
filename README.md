@@ -38,7 +38,7 @@
  <a href="https://github.com/Gabryel-Barboza/Java-e-POO/tree/main/Curso/ResoluçãoSwing/">Resolução Do Sistema [Swing]</a>
  <a href="https://github.com/Gabryel-Barboza/Java-e-POO/tree/main/Curso/calculadoraidade/">Calculadora Idade</a>
  </pre>
-## Estrutura de Repetição &#1F7E1;
+## Estrutura de Repetição &#x1F7E1;
  <pre>
  <a href="https://github.com/Gabryel-Barboza/Java-e-POO/tree/main/Curso/Repeticao01/">Repetição 01</a>
  <a href="https://github.com/Gabryel-Barboza/Java-e-POO/tree/main/Curso/ExercicioRepita/">Exercício Repita</a>
