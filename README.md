@@ -2,7 +2,7 @@
  Repositório com os exercicíos feitos do curso de [Java](https://youtube.com/playlist?list=PLHz_AreHm4dkI2ZdjTwZA4mPMxWTfNSpR) e [Java POO](https://youtube.com/playlist?list=PLHz_AreHm4dkqe2aR0tQK74m8SFe-aGsY) do CursoEmVideo. <br>
  Matérial complementar com os videos da [Loiane Groner](https://youtube.com/playlist?list=PLGxZ4Rq3BOBq0KXHsp5J3PxyFaBIXVs3r).
 
-## Primeiros Passos
+## Primeiros Passos &#x1F535;
  <pre>
  <a href="https://github.com/Gabryel-Barboza/Java-e-POO/tree/main/Curso/PrimeiroPrograma/">Primeiro Programa</a>
  <a href="https://github.com/Gabryel-Barboza/Java-e-POO/tree/main/Curso/OperadoresAritméticos/">Operadores Aritméticos</a>
@@ -33,7 +33,7 @@
  <a href="https://github.com/Gabryel-Barboza/Java-e-POO/tree/main/Curso/HoraDoSistema/">Hora Do Sistema</a>
  <a href="https://github.com/Gabryel-Barboza/Java-e-POO/tree/main/Curso/RelogioSwing/">Relogio [Swing]</a>
  <a href="https://github.com/Gabryel-Barboza/Java-e-POO/tree/main/Curso/LinguagemDoSistema/">Linguagem Do Sistema</a>
- <a href="https://github.com/Gabryel-Barboza/Java-e-POO/tree/main/Curso/LinguagemSwing/">Linguagem Do  Sistema [Swing]</a>
+ <a href="https://github.com/Gabryel-Barboza/Java-e-POO/tree/main/Curso/LinguagemSwing/">Linguagem Do Sistema [Swing]</a>
  <a href="https://github.com/Gabryel-Barboza/Java-e-POO/tree/main/Curso/ResoluçãoDoSistema/">Resolução Do Sistema</a>
  <a href="https://github.com/Gabryel-Barboza/Java-e-POO/tree/main/Curso/ResoluçãoSwing/">Resolução Do Sistema [Swing]</a>
  <a href="https://github.com/Gabryel-Barboza/Java-e-POO/tree/main/Curso/calculadoraidade/">Calculadora Idade</a>
@@ -65,3 +65,4 @@
  <a href="https://github.com/Gabryel-Barboza/Java-e-POO/tree/main/Curso/Funcao01/">Função 01</a>
  <a href="https://github.com/Gabryel-Barboza/Java-e-POO/tree/main/Curso/ExercicioFuncao/">Exercício Função</a>
  </pre>
+ 
