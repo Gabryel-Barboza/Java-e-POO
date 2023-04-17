@@ -15,7 +15,6 @@ public class Testes {
     AgendaCheiaException. Trate também as exceções de tipos de dados na entrada do usuário.
     */
     public static void main(String[] args) {
-       String resp;
        int opcao = 0;
        Scanner scan = new Scanner(System.in);
        Agenda agenda = new Agenda();
