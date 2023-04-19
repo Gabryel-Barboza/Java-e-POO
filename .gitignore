@@ -5,3 +5,8 @@
 *test
 *.mf
 /.metadata/
+*.classpath*
+*.project*
+*.prefs*
+*module-info*
+
