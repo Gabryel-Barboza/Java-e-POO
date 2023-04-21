@@ -68,6 +68,9 @@ public class ListaLigada<TIPO> { //TIPO vai receber os tipos de dados na instân
 		return atual;
 	}
 	
+	public IteratorListaLigada<TIPO> getIterator() {
+		return new IteratorListaLigada<TIPO>(this.primeiro);
+	}
 	
 	public ListaLigada() {
 		this.tamanho = 0;
