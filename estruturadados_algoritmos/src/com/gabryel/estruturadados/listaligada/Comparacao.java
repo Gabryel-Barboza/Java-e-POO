@@ -1,6 +1,7 @@
 package com.gabryel.estruturadados.listaligada;
 
 import java.util.ArrayList;
+import java.util.LinkedList;
 
 public class Comparacao {
 
@@ -74,6 +75,8 @@ public class Comparacao {
 		System.out.println("Lista Ligada com Iterator: " + (tempoFinal - tempoInicial) + "ms");
 		//Tempo extremamente menor com o uso do iterator.
 		
+		
+		LinkedList<String> lista = new LinkedList<String>();
 	}
 
 }

@@ -1,5 +1,6 @@
 package com.gabryel.estruturadados.algoritmos_de_ordenacao;
 
+
 public class QuickSort {
 
 	public static void main(String[] args) {
