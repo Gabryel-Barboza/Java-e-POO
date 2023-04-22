@@ -73,6 +73,7 @@ public class Comparacao {
 		tempoFinal = System.currentTimeMillis();
 		System.out.println("Lista Ligada com Iterator: " + (tempoFinal - tempoInicial) + "ms");
 		//Tempo extremamente menor com o uso do iterator.
+		
 	}
 
 }
